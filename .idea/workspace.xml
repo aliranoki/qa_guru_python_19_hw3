@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2391354d-bc69-4985-a119-f095488b88bb" name="Changes" comment="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры">
+      <change beforePath="$PROJECT_DIR$/search_selene_DuckDuckGo_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_selene_DuckDuckGo_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aliranoki"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aliranoki/qa_guru_python_19_hw3",
+    "accountId": "f9907424-0946-4096-97e4-deb04ce5e2fb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ujfGOgUqE6ig73M4wTGSAsT7qo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for search_selene_DuckDuckGo_test.test_search_element.executor": "Run",
+    "Python tests.Python tests in search_selene_DuckDuckGo_test.py.executor": "Run",
+    "Python tests.Python tests in test_search_selene_DuckDuckGo.py.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.search_selene_DuckDuckGo_test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/workspace_py/qa_guru_python_19_hw3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace_py\qa_guru_python_19_hw3" />
+      <recent name="C:\workspace_py\qa_guru_python_19_hw3\.venv\Lib\site-packages\selene" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in search_selene_DuckDuckGo_test.py">
+    <configuration name="Python tests for search_selene_DuckDuckGo_test.test_search_element" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qa_guru_python_19_hw3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;search_selene_DuckDuckGo_test.test_search_element&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in search_selene_DuckDuckGo_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qa_guru_python_19_hw3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/search_selene_DuckDuckGo_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in search_selene_DuckDuckGo_test.py" />
+        <item itemvalue="Python tests.Python tests for search_selene_DuckDuckGo_test.test_search_element" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2391354d-bc69-4985-a119-f095488b88bb" name="Changes" comment="" />
+      <created>1742766807750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742766807750</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added homework description to the README file">
+      <option name="closed" value="true" />
+      <created>1742766949173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742766949174</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".gitignore updated">
+      <option name="closed" value="true" />
+      <created>1742767266748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742767266748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="requirements.txt created&#10;selene and pytest added as requirements">
+      <option name="closed" value="true" />
+      <created>1742767869204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742767869204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added conftest.py with open/close browser fixture">
+      <option name="closed" value="true" />
+      <created>1742769607637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742769607637</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры">
+      <option name="closed" value="true" />
+      <created>1742847878791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742847878791</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры">
+      <option name="closed" value="true" />
+      <created>1742847895747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742847895747</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added homework description to the README file" />
+    <MESSAGE value=".gitignore updated" />
+    <MESSAGE value="requirements.txt created&#10;selene and pytest added as requirements" />
+    <MESSAGE value="added conftest.py with open/close browser fixture" />
+    <MESSAGE value="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры" />
+  </component>
+</project>
