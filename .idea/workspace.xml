@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2391354d-bc69-4985-a119-f095488b88bb" name="Changes" comment="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры">
-      <change beforePath="$PROJECT_DIR$/search_selene_DuckDuckGo_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_selene_DuckDuckGo_test.py" afterDir="false" />
+    <list default="true" id="2391354d-bc69-4985-a119-f095488b88bb" name="Changes" comment="Добавила тест на поиск, который не выдает результатов">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_selene_duck_duck_go_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_selene_duck_duck_go_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,7 @@
   "keyToString": {
     "Python tests.Python tests for search_selene_DuckDuckGo_test.test_search_element.executor": "Run",
     "Python tests.Python tests in search_selene_DuckDuckGo_test.py.executor": "Run",
+    "Python tests.Python tests in search_selene_duck_duck_go_test.py.executor": "Run",
     "Python tests.Python tests in test_search_selene_DuckDuckGo.py.executor": "Run",
     "Python.conftest.executor": "Run",
     "Python.search_selene_DuckDuckGo_test.executor": "Run",
@@ -61,8 +65,8 @@
       <recent name="C:\workspace_py\qa_guru_python_19_hw3\.venv\Lib\site-packages\selene" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in search_selene_DuckDuckGo_test.py">
-    <configuration name="Python tests for search_selene_DuckDuckGo_test.test_search_element" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in search_selene_duck_duck_go_test.py">
+    <configuration name="Python tests for search_selene_duck_duck_go_test.test_search_element" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="qa_guru_python_19_hw3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +77,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;search_selene_DuckDuckGo_test.test_search_element&quot;" />
+      <option name="_new_target" value="&quot;search_selene_duck_duck_go_test.test_search_element&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in search_selene_DuckDuckGo_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in search_selene_duck_duck_go_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="qa_guru_python_19_hw3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,14 +92,14 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/search_selene_DuckDuckGo_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/search_selene_duck_duck_go_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in search_selene_DuckDuckGo_test.py" />
-        <item itemvalue="Python tests.Python tests for search_selene_DuckDuckGo_test.test_search_element" />
+        <item itemvalue="Python tests.Python tests in search_selene_duck_duck_go_test.py" />
+        <item itemvalue="Python tests.Python tests for search_selene_duck_duck_go_test.test_search_element" />
       </list>
     </recent_temporary>
   </component>
@@ -163,8 +167,34 @@
       <option name="project" value="LOCAL" />
       <updated>1742847895747</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Добавила тест на поиск, который не выдает результатов">
+      <option name="closed" value="true" />
+      <created>1742849316739</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742849316739</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MERGE_COMMITS" value="true" />
+                  <entry key="MY_COMMITS" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added homework description to the README file" />
@@ -172,6 +202,7 @@
     <MESSAGE value="requirements.txt created&#10;selene and pytest added as requirements" />
     <MESSAGE value="added conftest.py with open/close browser fixture" />
     <MESSAGE value="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавила в conftest.py настройку конфигурации браузера&#10;Переписала search_selene_DuckDuckGo_test.py, добавив зависимость от фикстуры" />
+    <MESSAGE value="Добавила тест на поиск, который не выдает результатов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавила тест на поиск, который не выдает результатов" />
   </component>
 </project>
